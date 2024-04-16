@@ -11,6 +11,7 @@ body{
   font-family: "Open Sans","Arial",sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  background-color: #fff;
  color: #444;
 }
 
@@ -24,4 +25,14 @@ body{
   margin-left: auto;
   margin-right: auto;
 
+}
+
+/* Site-header stillari */
+.site-header{
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.site-header-container{
+  display:flex;
 }
